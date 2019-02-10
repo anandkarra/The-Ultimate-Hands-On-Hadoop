@@ -18,7 +18,7 @@ Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassan
 - [x] HDFS
 - [x] MapReduce
 - [x] Pig
-- [ ] Spark
+- [x] Spark
 - [ ] Hive
 - [ ] Tez
 - [ ] Mesos
