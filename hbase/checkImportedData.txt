@@ -1,0 +1,6 @@
+list
+scan 'users'
+disable 'users'
+drop 'users'
+list
+exit
