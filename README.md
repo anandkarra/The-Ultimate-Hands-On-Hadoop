@@ -33,8 +33,8 @@ Hadoop tutorial with MapReduce, HDFS, Spark, Flink, Hive, HBase, MongoDB, Cassan
 - [ ] Kafka
 - [ ] Flume
 #### NoSQL Databases
-- [ ] HBase
-- [ ] Cassandra
+- [x] HBase
+- [x] Cassandra
 - [ ] MongoDB
 #### Streaming
 - [ ] Spark Streaming
